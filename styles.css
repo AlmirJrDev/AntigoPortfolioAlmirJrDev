@@ -6,7 +6,7 @@
     
     body {
         height: 100vh;
-        background-color: #8A14FF;
+        background-color: crimson;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -44,7 +44,7 @@
     }
     
     .container ul li a i {
-        color: #8A14FF;
+        color: crimson;
         font-size: 38px;
         position: absolute;
         padding: 28px;
@@ -66,7 +66,7 @@
         left: 34px;
         width: 25px;
         height: 36px;
-        background: #8A14FF;
+        background: crimson;
         border-radius: 50%;
         transition: all 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
     }
@@ -80,7 +80,7 @@
         width: 20px;
         background: white;
         border-bottom-right-radius: 20px;
-        box-shadow: 0 10% 0 #8A14FF;
+        box-shadow: 0 10% 0 crimson;
     }
     
     .indicator::after {
